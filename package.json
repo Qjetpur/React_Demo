@@ -1,0 +1,19 @@
+{
+  "name": "react-demo",
+  "version": "1.0.0",
+  "description": "This Is a React Learning Purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qjetpur/React_Demo.git"
+  },
+  "author": "Qusai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qjetpur/React_Demo/issues"
+  },
+  "homepage": "https://github.com/Qjetpur/React_Demo#readme"
+}
